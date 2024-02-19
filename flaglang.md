@@ -4,7 +4,7 @@
 ## Description
 Do you speak the language of the flags?
 
-flaglang.chall.lac.tf
+https://flaglang.chall.lac.tf
 
 ## Solution
 1. I opened the link and it showed me a simple html page.

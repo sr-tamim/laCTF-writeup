@@ -4,7 +4,7 @@
 ## Description
 Welcome to LA CTF 2024! All you have to do is accept the terms and conditions and you get a flag!
 
-terms-and-conditions.chall.lac.tf
+https://terms-and-conditions.chall.lac.tf
 
 ## Solution
 1. I opened the link and it showed me a simple html page with a button to accept the terms and conditions.

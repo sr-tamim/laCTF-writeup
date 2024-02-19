@@ -5,6 +5,10 @@ LA CTF is an annual cybersecurity competition hosted by ACM Cyber at UCLA.
 ## Event Date
 Feb 16, 2024 8:00PM PST - Feb 18, 2024 2:00PM PST
 
+## My Solutions
+- [flaglang](flaglang.md)
+- [terms-and-conditions](terms-and-conditions.md)
+
 ## Regards
 SR Tamim
 
